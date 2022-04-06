@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Contato</title>
+    <link rel="stylesheet" href="../../../../reset.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="shortcut icon" href="./img/template.png" />
+  </head>
+  <body>
+    <header>
+      <figure></figure>
+      <nav>
+        <p>Home</p>
+        <p>Sobre</p>
+        <p>Artigos</p>
+        <p>Ajuda</p>
+      </nav>
+    </header>
+    <main>
+      <form>
+        <h1>Contato</h1>
+
+        <label for="nome">Nome completo</label>
+        <input
+          type="text"
+          name="nome"
+          id="nome"
+          placeholder="Nome Completo"
+          required
+        />
+
+        <label for="email">E-mail</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="E-mail"
+          required
+        />
+
+        <label for="tel">Telefone</label>
+        <input
+          type="text"
+          name="tel"
+          id="tel"
+          placeholder="Telefone"
+          maxlength="11"
+          required
+        />
+
+          <label for="msg">Mensagem</label>
+	    	  <textarea placeholder="Mensagem" class="input-model"></textarea>
+
+        <div class="btn-interact">
+          <button type="submit">enviar</button>
+        </div>
+      </form>
+    </main>
+    <footer>
+      <p class="footer-copyright">
+        © 2021 Copyright: <a href="">kenzie.com.br</a> // título de rodapé
+        meramente ilustrativo
+      </p>
+    </footer>
+  </body>
+</html>
