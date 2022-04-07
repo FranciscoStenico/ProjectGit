@@ -10,3 +10,6 @@ O REPOSITÓRIO CONTEM A RESOLUÇÃO MESCLADA DAS SEGUINTES ATIVIDADES:
 - S2-11 | 💪 Atividade - CSS: Lista de exercícios - Criando menu e footer (ADAPTADO);
 
 Ambas as atividades foram mescladas pois apresentavam a possibilidade, ja que um conteúdo não interferiria no outro.
+
+
+Alteração README.md feita em 07/04/22 as 15:06
